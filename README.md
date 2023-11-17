@@ -9,6 +9,6 @@ src/main/java/com/joaovitor/CalculatorController.java: Controlador Spring Boot p
 
 Configuração do Ambiente de Desenvolvimento Certifique-se de ter o JDK (Java Development Kit) instalado.
 
-Como Executar: Clone o repositório para a sua máquina local. Abra o projeto em sua IDE preferida. Execute a classe CalculatorApplication para iniciar o aplicativo Spring Boot. Acesse a calculadora em http://localhost:5500/src/main/java/com/joaovitor/calculadora.html no seu navegador.
+Como Executar: Clone o repositório para a sua máquina local. Abra o projeto em sua IDE preferida. Execute a classe CalculatorApplication para iniciar o aplicativo Spring Boot.
 
 Funcionalidades: Adição, subtração, multiplicação e divisão. Expressões matemáticas simples.
